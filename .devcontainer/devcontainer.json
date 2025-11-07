@@ -4,7 +4,7 @@
         "ghcr.io/devcontainers/features/rust:1": {},
         "ghcr.io/devcontainers/features/common-utils:2": {},
     },
-    // "postCreateCommand": "./.devcontainer/post_create_command.sh",
+    "postCreateCommand": "./.devcontainer/post_create_command.sh",
     "customizations": {
         "vscode": {
             "extensions": [
